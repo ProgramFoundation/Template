@@ -6,6 +6,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "Template"
-include(":androidApp")
+//rootProject.name = "Template"
+include(":android")
+include(":android:app")
 include(":shared")
